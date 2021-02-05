@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+/Users/erik/Desktop/Programing/ABL/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1494377908.index
+/ABL/src

@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/Users/erik/Desktop/Programing/ABL/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+420636077.index
+3208272726.index
+1494377908.index
+1352645004.index
+3407021839.index
+1842005385.index
+359180223.index
